@@ -46,7 +46,7 @@ We retain collected information for as long as necessary to fulfill the purposes
 
 ## 5. User Rights & Data Deletion
 
-You have the right to access, update, or request the deletion of your personal data. If you wish to delete your account or data, please contact us at **your-support-email@example.com**.
+You have the right to access, update, or request the deletion of your personal data. If you wish to delete your account or data, please contact us at **admingoatkart03@gmail.com**.
 
 ---
 
@@ -65,4 +65,4 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 ## 8. Contact Us
 
 If you have questions or suggestions about our Privacy Policy, contact us at:
-* **Email:** your-support-email@example.com
+* **Email:** admingoatkart03@gmail.com
